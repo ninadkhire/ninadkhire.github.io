@@ -1,6 +1,6 @@
 # Apps to make your tasks easier
 
-See our apps available for [Android](https://play.google.com/store/apps/dev?id=6812684529346551020) | iOS (coming soon).
+See our apps available for [Android](https://play.google.com/store/apps/dev?id=6812684529346551020) | [iOS](https://apps.apple.com/us/developer/ninad-khire/id1812421658)
 
 ## Featured Apps
 * [Quick Percentage Calculator](https://play.google.com/store/apps/details?id=quick.nnkhire.quickpercentage)
