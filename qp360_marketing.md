@@ -1,6 +1,6 @@
-# Quick Percent Calculator for iOS
+# Quick Percentage Plus for iOS
 
-Quick Percent Calculator provides you six 6 different percent calculators in one app.
+Quick Percentage Plus provides you seven 7 percentage calculators all in one app.
 
 Following calculators are available:
 
@@ -10,6 +10,7 @@ Following calculators are available:
 4. Margin: Find exact revenue from your cost and desired net profit margin.
 5. Compound Interest: Find compound interest upto the precision of years, months and days.
 6. Fraction to Percent: Convert fractions into percent.
+7. CAGR Calculator: Calculate Compound Annual Growth Rate of your investments.
 
 Comes with following helpful features:
 1. Copy/Paste functionality.
