@@ -1,4 +1,4 @@
-# Privacy Policy for Quick Percent Calculator app
+# Privacy Policy for Quick Percentage Plus app
 
 In order to keep the app free to download, we show minimal advertisements 
 through the app.
