@@ -1,9 +1,9 @@
 # Apps to make your tasks easier
 
-See our apps available for [Android](https://play.google.com/store/apps/dev?id=6812684529346551020) | [iOS](https://apps.apple.com/us/developer/ninad-khire/id1812421658)
+Our apps are available for [Android](https://play.google.com/store/apps/dev?id=6812684529346551020) and [iOS](https://apps.apple.com/us/developer/ninad-khire/id1812421658)
 
 ## Featured Apps
-* Quick Percentage Calculator [Android](https://play.google.com/store/apps/details?id=quick.nnkhire.quickpercentage) | [iOS/macOS](https://apps.apple.com/us/app/quick-percentage-plus/id6745476148)
+* Quick Percentage Calculator [Android](https://play.google.com/store/apps/details?id=quick.nnkhire.quickpercentage), [iOS/macOS](https://apps.apple.com/us/app/quick-percentage-plus/id6745476148)
 * Just Digital Japa Counter [Android](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter)
 * Just Counter Pro [Android](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter.pro)
 * Calculator E Plus [Android](https://play.google.com/store/apps/details?id=com.ninadkhire.calculatoreplus)
