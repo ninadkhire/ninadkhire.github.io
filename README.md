@@ -10,5 +10,5 @@ Check my work and connect with me using below links.
 [LeetCode](https://www.leetcode.com/nn1000)  
 [GitHub](https://github.com/ninadkhire)  
 
-Other links
+Other links  
 [More information about our mobile applications](https://ninadkhire.com/mobileapps)
