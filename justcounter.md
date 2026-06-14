@@ -24,8 +24,8 @@
 
 
 Download now.
-For Android [Just Counter Pro](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter.pro) [Just Counter](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter).
-For iOS [Just Counter Pro](https://apps.apple.com/us/developer/ninad-khire/id1812421658)
+* For Android [Just Counter Pro](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter.pro), [Just Counter](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter).
+* For iOS [Just Counter Pro](https://apps.apple.com/us/developer/ninad-khire/id1812421658).
 
 
 ## Helpful resources
