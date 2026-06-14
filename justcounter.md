@@ -1,9 +1,7 @@
 # Just Counter: Count anything, anywhere digitally. Full on features and Free from Ads.
 
-### Available on Android at Google Play in two versions: Just Counter (Free) and Just Counter Pro.
-
-
-Download now [Just Counter Pro](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter.pro) or [Just Counter](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter).
+### Available for Android on Google Play in two versions: [Just Counter (Free)](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter) and [Just Counter Pro](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter.pro).
+### Available for iOS on App Store: [Just Counter Pro](https://apps.apple.com/us/developer/ninad-khire/id1812421658).
 
 
 ## App features
@@ -18,13 +16,16 @@ Download now [Just Counter Pro](https://play.google.com/store/apps/details?id=ju
 9. Todays count : It shows how many times you have increased the counter today.
 10. Mala counter : It shows how many malas (cycle of 108 counts) you have counted.
 11. Dark Mode : It makes the app comfortable to use at night and reduces battery power consumption.
+12. Focused Mode: Dedicated mode for focused sessions with custom background wallpaper and auto increment.
 ### Additional features that you get with Just Counter Pro:
-12. Multiple counters: You can create as many counters as you want. Every counter has individual settings, counts, themes and history.
-13. Backup and Restore functionality: With Just Counter Pro you can restore app backups created from Just Counter (Free) or Just Counter Pro app on any device.
-14. Themes: You can assign different color themes as per your choice for your different counters.
+13. Multiple counters: You can create as many counters as you want. Every counter has individual settings, counts, themes and history.
+14. Backup and Restore functionality: With Just Counter Pro you can restore app backups created from Just Counter (Free) or Just Counter Pro app on any device.
+15. Themes: You can assign different color themes as per your choice for your different counters.
 
 
-Download now [Just Counter Pro](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter.pro) or [Just Counter](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter).
+Download now.
+For Android [Just Counter Pro](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter.pro) [Just Counter](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter).
+For iOS [Just Counter Pro](https://apps.apple.com/us/developer/ninad-khire/id1812421658)
 
 
 ## Helpful resources
