@@ -31,3 +31,4 @@ For iOS [Just Counter Pro](https://apps.apple.com/us/developer/ninad-khire/id181
 ## Helpful resources
 * [Privacy Policy](https://ninadkhire.com/justcounter_privacy_policy)
 * [Terms of Service](https://ninadkhire.com/justcounter_terms_of_service)
+* [Contact us for support](https://ninadkhire.com/jc_ios_support)
